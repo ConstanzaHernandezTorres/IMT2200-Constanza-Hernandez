@@ -1,1 +1,1 @@
-Hola, soy Constanza Hernández (Correo: constanza.h.torres@uc.cl) y este es mi repositorio para subir mis tareas y actividades de Introducción a Ciencia de Datos 2025. 
+Constanza Hernández (Correo: constanza.h.torres@uc.cl) 
